@@ -1,7 +1,7 @@
 ![MasterHead](GitHeade.gif)
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=4000&color=ef873e&center=true&vCenter=true&width=435&lines=Hey..+I'm+Monu+Chaudhary;Welcome+to.my+Github..;" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=4000&color=ef873e&center=true&vCenter=true&width=435&lines=Hey..+I'm+Prakhar+arora;Welcome+to.my+Github..;" alt="Typing SVG"/>
     </h1>
 </div>
 
@@ -23,7 +23,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MonuChaudhary14&theme=darkhub&margin-w=15&title=Repositories,Commits,Experience,Stars,Followers,PullRequest&no-bg=true" alt="" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakhararora30&theme=darkhub&margin-w=15&title=Repositories,Commits,Experience,Stars,Followers,PullRequest&no-bg=true" alt="" /></a> </p>
 
 ###
-<img align="left" src="https://profile-counter.glitch.me/MonuChaudhary14/count.svg?"  /><br><br>
+<img align="left" src="https://profile-counter.glitch.me/prakhararora30/count.svg?"  /><br><br>
